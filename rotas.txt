@@ -1,0 +1,1 @@
+ GET - /Aulas/segunda - ver as aulas 
